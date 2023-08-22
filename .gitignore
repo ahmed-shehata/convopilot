@@ -9,3 +9,4 @@ dist/
 .DS_STORE
 token.pickle
 credentials.json
+node_modules/
